@@ -1,0 +1,14 @@
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators2\obj\Debug\net9.0\Operators2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators2\obj\Debug\net9.0\Operators2.AssemblyInfoInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators2\obj\Debug\net9.0\Operators2.AssemblyInfo.cs
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators2\obj\Debug\net9.0\Operators2.csproj.CoreCompileInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators2\bin\Debug\net9.0\Operators2.exe
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators2\bin\Debug\net9.0\Operators2.deps.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators2\bin\Debug\net9.0\Operators2.runtimeconfig.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators2\bin\Debug\net9.0\Operators2.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators2\bin\Debug\net9.0\Operators2.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators2\obj\Debug\net9.0\Operators2.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators2\obj\Debug\net9.0\refint\Operators2.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators2\obj\Debug\net9.0\Operators2.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators2\obj\Debug\net9.0\Operators2.genruntimeconfig.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Operators2\obj\Debug\net9.0\ref\Operators2.dll
